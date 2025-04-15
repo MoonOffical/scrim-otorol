@@ -1,2 +1,4 @@
-# DarknessCode-Scrim-Otorol
- Küçük sc otorol sistemidir herhangi bir yerde paylaşılması tamamen yasaktır.
+# Scrim-Otorol
+Gelişmiş bir mesaj scrim otorol sistemidir ayarlar.js dosyasını doldurup botu kullanabilirsiniz.
+
+Code World: https://discord.gg/pGA9M5UCnt
